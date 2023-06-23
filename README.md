@@ -21,12 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/img/screenshot.png)
+![](./src/assets/screenshot.PNG)
 
 ### Links
 
-- Solution URL: [https://github.com/juanardanaz/delivery-landing-page/](https://your-solution-url.com)
-- Live Site URL: [https://juanardanaz.github.io/delivery-landing-page/](https://your-live-site-url.com) 
+- Solution URL: [https://github.com/juanardanaz/pokemon-game](https://your-solution-url.com) 
 
 ## Project setup
 ```
